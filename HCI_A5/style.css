@@ -1,0 +1,132 @@
+* {
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+}
+body{
+    background-color: #96C291;
+}
+
+/* .logo{
+  margin-left: 100px;
+  padding-left: 100px;
+  height: 80px;
+  width: 300px;
+} */
+.c1 {
+  height: 100px;
+  /* background-color: black; */
+  background-color: white;
+  display: flex;
+  align-items: center;
+  font-size: 20px;
+  justify-content: center;
+}
+.home{
+  display: flex;
+  height: 50px;
+  justify-content: center;
+  align-items: center;
+
+}
+
+p {
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  /* /font-weight: bold; */
+  text-transform: capitalize;
+}
+img {
+  margin-top: 30px;
+  height: 300px;
+  width: 300px;
+}
+h1{
+  text-align: center;
+}
+#id1{
+  font-size: 20px;
+  color: black;
+}
+#id2{
+ 
+  margin-left: 30px;
+  font-size: 20px;
+  /* color: white; */
+  color: black;
+}
+
+input{
+  height: 30px;
+  width: 400px;
+  margin-left: 100px;
+}
+#id3{
+
+  margin-left: 700px;
+  font-size: 20px;
+  /* color: white; */
+  color: black;
+}
+
+.c2 {
+  display: flex;
+  flex-wrap: wrap;
+  text-align: center;
+  justify-content: center;
+  gap: 80px;
+  /* height: 600px;
+  width: 1100px;
+  background-color: white; */
+}
+
+.book1 {
+  /* justify-items: center;
+  align-items: center; */
+  /* margin-top: 20px; */
+  height: 400px;
+  width: 400px;
+  font-size: 20px;
+  /* border: 2px black solid; */
+  background-color: #EEEEEE;
+}
+
+.book2 {
+  height: 400px;
+  width: 400px;
+  font-size: 20px;
+  /* border: 2px black solid; */
+  background-color: #EEEEEE;
+}
+
+.book3 {
+  height: 400px;
+  width: 400px;
+  font-size: 20px;
+  /* border: 2px black solid; */
+  background-color: #EEEEEE;
+}
+
+.book4 {
+  height: 400px;
+  width: 400px;
+  font-size: 20px;
+  /* border: 2px black solid; */
+  background-color: #EEEEEE;
+}
+
+.book5 {
+  height: 400px;
+  width: 400px;
+  font-size: 20px;
+  /* border: 2px black solid; */
+  background-color: #EEEEEE;
+  /* background-color: white; */
+}
+
+.book6 {
+  height: 400px;
+  width: 400px;
+  font-size: 20px;
+  /* border: 2px black solid; */
+  background-color: #EEEEEE;
+}
